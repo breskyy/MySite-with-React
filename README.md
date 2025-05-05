@@ -1,37 +1,37 @@
-# Moja Strona Osobista
+# My Personal Website
 
 ![React](https://img.shields.io/badge/React-19.1.0-blue?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-6.3.5-purple?logo=vite)
 
-## 📝 O projekcie
+## 📝 About the Project
 
-Moja osobista strona internetowa zbudowana w React i Vite. Projekt ten tworzę, aby rozwijać swoje umiejętności w React i zaprezentować swoje portfolio.
+My personal website built with React and Vite. I'm creating this project to develop my React skills and showcase my portfolio.
 
-## 🛠️ Technologie
+## 🛠️ Technologies
 
 - **React 19.1.0**
 - **Vite 6.3.5**
 - **SWC**
 - **ESLint**
 
-## 🚀 Uruchomienie lokalne
+## 🚀 Local Setup
 
 ```bash
-# Instalacja zależności
+# Install dependencies
 npm install
 
-# Uruchomienie w trybie deweloperskim
+# Run in development mode
 npm run dev
 ```
 
-Strona będzie dostępna pod adresem: `http://localhost:5173`
+The site will be available at: `http://localhost:5173`
 
-## 🔧 Dostępne skrypty
+## 🔧 Available Scripts
 
-- `npm run dev` - uruchamia aplikację w trybie deweloperskim
-- `npm run build` - buduje wersję produkcyjną 
-- `npm run preview` - podgląd wersji produkcyjnej
+- `npm run dev` - runs the app in development mode
+- `npm run build` - builds the production version
+- `npm run preview` - preview of the production version
 
 ---
 
-*Projekt w trakcie rozwoju* 🚧
+*Project under development* 🚧
